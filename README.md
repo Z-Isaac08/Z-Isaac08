@@ -17,7 +17,7 @@
 | **Frontend**         | React.js, HTML, CSS                        |
 | **Backend**          | Node.js, Express.js                        |
 | **Mobile**           | Flutter                                   |
-| **Databases**        | SQLite, Drift (for Flutter)               |
+| **Databases**        | SQLite, MySQL                             |
 | **Tools & Platforms**| Git, GitHub, VS Code, Firebase, Figma     |
 | **Other**            | Problem Solving, UI/UX Design Principles  |
 
