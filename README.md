@@ -3,7 +3,7 @@
 - 👀 I’m interested in **building intuitive web and mobile experiences** and exploring **full-stack development**.
 - 🌱 I’m currently learning **Flutter** with SQLite integration using Drift and deepening my expertise in **React.js** for creating admin interfaces.
 - 💞️ I’m looking to collaborate on **projects focused on mobile app development, web solutions, and interactive experiences**.
-- 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/) or reach out via email at isaac@example.com.
+- 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/isaac-n-cho/) or reach out via email at isaacncho08@gmail.com.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a third-year student at ESATIC, and I love solving complex problems with a mix of creativity and technical skills!
 
